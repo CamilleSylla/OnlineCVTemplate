@@ -1,0 +1,36 @@
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    .img {
+        width: 40%;
+        height: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img {
+            width: 80%;
+        }
+    }
+    .content {
+        width: 40%;
+        height: 80%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        button {
+            padding: 1.5vh  1vw 1.5vh 1vw;
+            width: auto;
+            margin-top: 4vh;
+        }
+        * {
+            width: 80%;
+            margin: 0;
+        }
+
+        h1 {
+            font-size: 3.2rem;
+            padding-bottom: 2vh;
+        }
+    }
+}

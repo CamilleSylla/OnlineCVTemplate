@@ -1,0 +1,20 @@
+.wrapper {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    span {
+        text-align: center;
+    }
+    .number {
+        font-weight: 700;
+        text-align: center;
+        width: 8vw;
+    }
+    h3 {
+        width: 10vw;
+    }
+    .content {
+        width: 70%;
+        font-size: 1.2rem;
+    }
+}

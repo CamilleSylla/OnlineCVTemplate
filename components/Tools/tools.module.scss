@@ -1,0 +1,13 @@
+.wrapper {
+    margin-top: 5vh;
+    table {
+        width: 45%;
+        margin: 0 auto;
+        text-align: left;
+        .row {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+}

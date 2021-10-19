@@ -1,11 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Inter', sans-serif;
+  color: #F2F2F2;
+  font-size: 16px;
+    background-color: #00152E;
 }
-
+section {
+  margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+button {
+  font-weight: 800;
+  text-transform: uppercase;
+  font-family: 'Inter', sans-serif;
+  
+  align-self: flex-start;
+}
 a {
   color: inherit;
   text-decoration: none;
