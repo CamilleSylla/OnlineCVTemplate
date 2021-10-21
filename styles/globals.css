@@ -15,11 +15,15 @@ section {
     width: 100%;
     position: relative;
 }
+input, textarea {
+  font-family: 'Inter', sans-serif;
+  color: #F2F2F2;
+}
 button {
   font-weight: 800;
   text-transform: uppercase;
   font-family: 'Inter', sans-serif;
-  
+  cursor: pointer;
   align-self: flex-start;
 }
 a {

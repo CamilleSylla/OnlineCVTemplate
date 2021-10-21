@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    .number {
+        width: 8vw;
+        font-weight: 700;
+        text-align: center;
+    }
+    .section_title {
+        width: 10vw;
+    }
+    .wrapper {
+    display: block;
+        .school {
+            // text-align: right;
+        }
+    }
+}

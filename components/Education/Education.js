@@ -15,9 +15,9 @@ export default function Education() {
   };
 
   return (
-    <section>
+    <section style={{height: "auto"}}>
       <div className={style.container}>
-        <span className={style.number }>03</span>
+      <span className={style.number }>03</span>
         <h3 className={style.section_title}>Éducation</h3>
         <div>
           {content.map((el, i) => {
