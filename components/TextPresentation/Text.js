@@ -10,8 +10,7 @@ export default function TextPresentation({content}) {
       {content.map((el, i) => {
           return (
 <div className={style.wrapper}>
-      <p className={style.number}>0{ 1 + i }</p>
-      <h3>{el.section}</h3>
+      <h3>0{ 1 + i } - {el.section}</h3>
       <p className={style.content}>
           {el.content}
       </p>

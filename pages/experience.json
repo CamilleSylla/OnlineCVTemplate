@@ -1,14 +1,30 @@
 [
     {
-        "degree": "Baccalauréat Science Technologique du Management et de la Gestion",
-        "school": "Lycée le Mans Sud, Lycée Chevrollier d'Angers",
-        "annee": "2014",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare purus sem, a fringilla massa sagittis id. Sed viverra leo id ligula fermentum consectetur."
+        "degree": "FREELANCE - Conception de site internet",
+        "school": "Demetis Immo",
+        "annee": "10/2021 - 11/2021",
+        "desc": "Conception complète du site internet de la ville de Montcornet (Aisne, 02340)",
+        "url": "https://demetisimmo.vercel.app/"
     },
     {
-        "degree": "Baccalauréat Science Technologique du Management et de la Gestion",
-        "school": "Lycée le Mans Sud, Lycée Chevrollier d'Angers",
-        "annee": "2014",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare purus sem, a fringilla massa sagittis id. Sed viverra leo id ligula fermentum consectetur."
+        "degree": "FREELANCE - Conception de site internet",
+        "school": "Commune de Montcornet",
+        "annee": "04/2021 - 07/2021",
+        "desc": "Conception complète du site internet de la ville de Montcornet (Aisne, 02340)",
+        "url": "https://montcornet.fr/"
+    },
+    {
+        "degree": "FREELANCE - Conception de site internet  ",
+        "school": "Demetis Conseil",
+        "annee": "28/12/2020 - 20/01/2021",
+        "desc": "Réalisation de maquette du futur site de Demetis; Conception et mise en ligne du site internet de Demetis",
+        "url": "https://www.demetisconseil.fr/"
+    },
+    {
+        "degree": "FREELANCE - Conception de site internet",
+        "school": "OP Consult",
+        "annee": "01/09/2020 - 30/10/2020",
+        "desc": "Réalisation de maquette du futur site de OPConsult; Conception et mise en ligne du site internet de OPConsult",
+        "url": "https://www.opconsult.fr/"
     }
 ]

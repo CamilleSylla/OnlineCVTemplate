@@ -1,14 +1,20 @@
 [
     {
-        "degree": "Baccalauréat Science Technologique du Management et de la Gestion",
-        "school": "Lycée le Mans Sud, Lycée Chevrollier d'Angers",
-        "annee": "2014",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare purus sem, a fringilla massa sagittis id. Sed viverra leo id ligula fermentum consectetur."
+        "degree": "Projets personelles et apprentiassage auto-didacte",
+        "school": "Pau - Saint-Quentin - Le Mans",
+        "annee": "2016 à aujourd'hui",
+        "desc": "Auto-Formation autour du dévéloppement web dans un premier temps sur RubyonRails. Je me suis ensuite orienté vers React qui est devenue mon framework Front-End de référence. J’utilise Node.js principalement pour le Back-End."
     },
     {
-        "degree": "Baccalauréat Science Technologique du Management et de la Gestion",
+        "degree": "Associate of Art, Computer Information Systems",
+        "school": "Glendale Community College, Arizona",
+        "annee": "2015",
+        "desc": "Recruter par une PrepSchool (Basket-Ball) aux USA, j’ai pu prendre des classes en Community College afin d’être éligible pour une bourse universitaire. "
+    },
+    {
+        "degree": "Baccalauréat, Science Technologique du Management et de la Gestion",
         "school": "Lycée le Mans Sud, Lycée Chevrollier d'Angers",
         "annee": "2014",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare purus sem, a fringilla massa sagittis id. Sed viverra leo id ligula fermentum consectetur."
+        "desc": "Etudes ayant pour sujet principal la mercatique, l’économie et le management d’entreprise"
     }
 ]

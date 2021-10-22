@@ -1,17 +1,20 @@
 .container {
+    padding: 10vh 0 10vh 0;
+
     display: flex;
     width: 80%;
     margin: 0 auto;
     .number {
-        width: 8vw;
         font-weight: 700;
         text-align: center;
     }
     .section_title {
-        width: 10vw;
+        width: 22vh;
+
     }
     .wrapper {
     display: block;
+    padding-bottom: 5vh;
         .school {
             // text-align: right;
         }

@@ -1,18 +1,21 @@
 
 .container {
+    padding: 10vh 0 10vh 0;
     display: flex;
     width: 80%;
     margin: 0 auto;
+    justify-content: space-between;
     .number {
-        width: 8vw;
         font-weight: 700;
         text-align: center;
     }
     .section_title {
-        width: 10vw;
+        width: 30vh;
     }
     .wrapper {
     display: block;
+    max-width: 70%;
+    padding-bottom: 5vh;
         .school {
             // text-align: right;
         }
